@@ -13,21 +13,3 @@
 📫 Vous pouvez me contacter via mon profil LinkedIn : Patrice Danger
 
 ⚡ Petit fait amusant : ...
-
-
-
-👋 Hi there! I'm Patrice DANGER, a dynamic professional with a strong background in sales management and leadership, as well as recent expertise in data analysis.
-
-🎓 I've recently completed a Data Analysis program at Jedha, where I gained in-depth skills in data analysis. My goal is to integrate these skills into my strategic decision-making to maximize business performance.
-
-💼 Recently, I worked in the healthcare sector for an optical company, where I put my skills in data management and analysis into practice.
-
-🌱 Meanwhile, I'm continuing to deepen my knowledge in business strategy and marketing.
-
-🤝 I'm open to collaborating on exciting new projects in the field of data analysis.
-
-💬 Feel free to reach out to me with any questions about my projects or anything else!
-
-📫 You can contact me via my LinkedIn profile: Patrice Danger
-
-⚡ Fun fact: ...
