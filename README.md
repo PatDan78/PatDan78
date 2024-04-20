@@ -27,6 +27,8 @@ https://www.linkedin.com/in/patrice-danger/
 
 # Mon portefolio
 
-Projet diabète (sur le prédiction de la maladie)
-Projet Netflix (Analyse de l'activité de la plateforme)
-Projet CROSS (travail en groupe sur les opérations de sauvetage en mer)
+Projet diabète (sur le prédiction de la maladie)<br>
+
+Projet Netflix (Analyse de l'activité de la plateforme)<br>
+
+Projet CROSS (travail en groupe sur les opérations de sauvetage en mer)<br>
