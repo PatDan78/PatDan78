@@ -32,3 +32,5 @@ Projet diabète (sur le prédiction de la maladie)<br>
 Projet Netflix (Analyse de l'activité de la plateforme)<br>
 
 Projet CROSS (travail en groupe sur les opérations de sauvetage en mer)<br>
+
+Projet ERP (Analyse sur une société qui distribue un ERP)<br>
